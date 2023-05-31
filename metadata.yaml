@@ -1,0 +1,24 @@
+---
+title: 
+- type: main
+  text: "IA tra le Righe L'Editoria Digitale alla Sfida dell'Intelligenza Artificiale"
+creator:
+- role: author
+  text: Pensiero Profondo
+- role: editor
+  text: Lorenzo Bruno
+date: "1999-23-11"
+pubdate: "September 28, 1787"
+publisher: Università degli studi di Milano
+rights:  [Wizards of the Coast's Fan Content Policy (15 Nov 2017)]
+language: it-IT
+version: "1.0.0"
+output:
+  html:
+   include-in-header:
+      - epub.css
+no-check-certificate: true
+reference-links: true
+reference-location: section
+number-section: true
+---
