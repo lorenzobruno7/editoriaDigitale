@@ -1,1 +1,0 @@
-pandoc project.html --css=epub.css --metadata-file=metadata.yaml -o prova.epub 
