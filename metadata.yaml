@@ -1,4 +1,5 @@
 ---
+#Prova di metadati scritti in YAML
 title: 
 - type: main
   text: "IA tra le Righe L'Editoria Digitale alla Sfida dell'Intelligenza Artificiale"
@@ -10,7 +11,7 @@ creator:
 date: "1999-23-11"
 pubdate: "September 28, 1787"
 publisher: Università degli studi di Milano
-rights:  [Wizards of the Coast's Fan Content Policy (15 Nov 2017)]
+rights:  [Copyright ©2022 https://www.registrolei.it/leicert/9845000B7798E81BEB72/]
 language: it-IT
 version: "1.0.0"
 output:
