@@ -11,7 +11,7 @@
 
 ## Oggetto del progetto
 
-Questo progetto rappresenta uno  **showcase** riguardo l'applicazione delle tecnologie basate su intelligenza artificiale nell'ambito dell'editoria digitale. 
+Questo progetto rappresenta uno **showcase** riguardo l'applicazione delle tecnologie basate su intelligenza artificiale nell'ambito dell'editoria digitale. 
 
 ## 🎯 Obiettivi
 
@@ -24,11 +24,8 @@ Per creare il showcase, utilizzerò una combinazione di presentazioni visive, vi
 ### Studio e analisi del tema
 
 * Studio del mercato:
-
-
-
-* Definizione del target:
-
+Negli ultimi anni, l'utilizzo delle nuove tecnologie basate sull'intelligenza artificiale (IA) ha registrato un incremento esponenziale in vari settori. Questo rapido sviluppo è stato alimentato  da diversi fattori, tra cui l'aumento della disponibilità di dati, i  progressi nella capacità di calcolo e l'avanzamento degli algoritmi  di apprendimento automatico. Anche nel campo dell'editoria digitale, l'utilizzo dell'IA ha registrato una crescita significativa. Le intelligenze artificiali vengono 
+utilizzate per automatizzare compiti editoriali come la scrittura assistita e la personalizzazione dei contenuti per gli utenti. Inoltre, l'IA è impiegata nella gestione dei flussi di lavoro editoriali, ottimizzando la produzione e la distribuzione dei contenuti digitali.
 
 * Obiettivi comunicativi:
 
@@ -43,11 +40,9 @@ Per creare il showcase, utilizzerò una combinazione di presentazioni visive, vi
 
 * Sviluppo dei contenuti:
 
-    contenuti indifferentemente se destinati al pdf, alla pagina web o alla parte video/audio
 
 * Stesura requisiti di accessibilità
 
-* Inserire modalità di ricezione feedback
 
 ### Revisione dei contenuti
 
@@ -67,12 +62,6 @@ Per creare il showcase, utilizzerò una combinazione di presentazioni visive, vi
 * Revisione dell'impaginazione e dell'accessibilità
 * Definizione dei metadati descrittivi
 * Dichiarazione delle licenze
-
-### Verifica post produzione
-
-* Verifica degli eventuali feedback e conseguente revisione del prodotto
-
-**N.B.:** questo processo di produzione non ho voluto appositamente aggiornarlo in modo da far vedere l'evoluzione del progetto man mano che il prodotto prendesse forma. Non viene infatti in alcun momento citato il tool mdBook. La parte di gestione documentale invece è fedele all'effettiva evoluzione del lavoro.
 
 ### Gestione documentale
 
