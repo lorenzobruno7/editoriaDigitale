@@ -1,8 +1,17 @@
-# Relazione progetto - Editoria Digitale - Lorenzo Bruno
+# L'IA tra le Righe: L'Editoria Digitale alla Sfida dell'Intelligenza Artificiale
+## Contenuti del progetto
+* [Oggetto del progetto](#oggetto-del-progetto)
+* [Obiettivi](#obiettivi)
+* [Processo di produzione](#processo-di-produzione)
+     * [Studio e analisi del tema](#studio-e-analisi-del-tema)
+     * [Stesura della bozza](#stesura-della-bozza)
+     * [Definizione dello stile grafico](#definizione-dello-stile-grafico)
+* [Tecnologie](#tecnologie)
+    * [Tecnologie per l'automatismo](#tecnologie-per-lautomatismo)
 
 ## Oggetto del progetto
 
-L'elaborato finale del progetto è uno  **showcase** riguardo l'utilizzo dell'intelligenza artificiale nell'editoria digitale. 
+Questo progetto rappresenta uno  **showcase** riguardo l'applicazione delle tecnologie basate su intelligenza artificiale nell'ambito dell'editoria digitale. 
 
 ## Obiettivi
 
@@ -108,7 +117,9 @@ I ruoli utilizzati all'interno del documento sono i seguenti
 [^3]: https://www.w3.org/WAI/standards-guidelines/aria/
 
 
-## Tecnologie adottate per l'automatismo
+## Tecnologie
+
+### Tecnologie per l'automatismo
 
 ### Pandoc: conversione dei documenti
 
@@ -118,7 +129,7 @@ Pandoc è un software gratuito progettato per la **conversione di documenti** di
 
 [^4]: https://pandoc.org/
 
-#### GitHub: gestione del versioning
+### GitHub: gestione del versioning
 
 Git è un sistema di **controllo di versione distribuito, gratuito e open source**, progettato per gestire con velocità ed efficienza progetti di ogni tipo, dai più piccoli ai più grandi. [^5]
 GitHub è un **servizio di hosting** su Internet per lo sviluppo di software e il controllo delle versioni tramite Git. Fornisce il controllo di versione distribuito di Git più il controllo degli accessi, il bug tracking, le richieste di funzionalità software, la gestione delle attività, l'integrazione continua e i wiki per ogni progetto. [^6]
@@ -127,11 +138,11 @@ GitHub è un **servizio di hosting** su Internet per lo sviluppo di software e i
 [^6]: https://docs.github.com
 
 
-### Evoluzione
+## Conclusioni
+
+### Sviluppi futuri
 
 L'elaborato rappresenta, al momento della sua pubblicazione, una fotografia delle tecnologie gratutite attualmente presenti sul mercato ed accessibili a chiunque. Progressivamente con l'evoluzione di queste tecnologie, il prodotto finale potrà mutare ed evolvere insieme ad esse.
-
-### Conclusioni
 
 
 
