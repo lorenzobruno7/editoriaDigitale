@@ -1,7 +1,7 @@
 # L'IA tra le Righe: L'Editoria Digitale alla Sfida dell'Intelligenza Artificiale
 ## 🗃 Indice dei contenuti
 * [Oggetto del progetto](#oggetto-del-progetto)
-* [Obiettivi](#obiettivi)
+* [Obiettivi](#-obiettivi)
 * [Processo di produzione](#processo-di-produzione)
      * [Studio e analisi del tema](#studio-e-analisi-del-tema)
      * [Stesura della bozza](#stesura-della-bozza)
@@ -13,7 +13,7 @@
 
 Questo progetto rappresenta uno  **showcase** riguardo l'applicazione delle tecnologie basate su intelligenza artificiale nell'ambito dell'editoria digitale. 
 
-## Obiettivi
+## 🎯 Obiettivi
 
 L'obiettivo è quello di illustrare in modo chiaro e coinvolgente come l'intelligenza artificiale sta trasformando l'editoria digitale, offrendo nuove opportunità di innovazione e migliorando l'esperienza di lettura per gli utenti. L'elaborato vuole mettere in luce le potenzialità delle intelligenze artificiali e stimolare la riflessione su come queste tecnologie possano essere integrate in modo responsabile e sostenibile nel settore dell'editoria digitale, ponendo anche un occhio di riguardo sui limiti attuali delle tecnologie presenti.
 
