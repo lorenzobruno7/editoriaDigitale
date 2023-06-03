@@ -1,4 +1,7 @@
 # L'IA tra le Righe: L'Editoria Digitale alla Sfida dell'Intelligenza Artificiale
+
+**IN FASE DI AGGIORNAMENTO**
+
 ## 🗃 Indice dei contenuti
 * [Oggetto del progetto](#oggetto-del-progetto)
 * [Obiettivi](#-obiettivi)
@@ -11,7 +14,7 @@
 
 ## Oggetto del progetto
 
-Questo progetto rappresenta uno **showcase** riguardo l'applicazione delle tecnologie basate su intelligenza artificiale nell'ambito dell'editoria digitale. 
+Questo progetto rappresenta uno **showcase** sull'applicazione delle tecnologie basate su intelligenza artificiale (IA) nell'ambito dell'editoria digitale. 
 
 ## 🎯 Obiettivi
 
@@ -19,7 +22,7 @@ L'obiettivo è quello di illustrare in modo chiaro e coinvolgente come l'intelli
 
 ## Processo di produzione
 
-Per creare il showcase, utilizzerò una combinazione di presentazioni visive, video esplicativi e demo interattive. La presentazione visiva sarà strutturata in modo da fornire una panoramica chiara e concisa dei principali ambiti in cui l'intelligenza artificiale viene impiegata nell'editoria digitale, come la scrittura assistita, la creazione e personalizzazione di contenuti multimediali come audio, immagini o video.
+Per creare il showcase, è stata utilizzata una combinazione di presentazioni audiovisive. La presentazione sarà strutturata in modo da fornire una panoramica chiara e concisa dei principali ambiti in cui l'intelligenza artificiale viene impiegata nell'editoria digitale, come la scrittura assistita, la creazione e personalizzazione di contenuti multimediali come audio, immagini o video.
 
 ### Studio e analisi del tema
 
@@ -32,14 +35,13 @@ utilizzate per automatizzare compiti editoriali come la scrittura assistita e la
 
 * Definizione dei formati:
 
-
+Il formato finale del progetto è quello dell'ePub, standard aperto specifico per la pubblicazione di libri digitali (eBook)
 
 ### Stesura della bozza
 
 * Punti da trattare
 
 * Sviluppo dei contenuti:
-
 
 * Stesura requisiti di accessibilità
 
@@ -70,9 +72,15 @@ utilizzate per automatizzare compiti editoriali come la scrittura assistita e la
 
 Lo showcase è organizzato nel seguente modo:
 
+* Introduzione
+* Testo
+* Immagini
+* Audio
+* Video
+* Conclusioni
+* Copyright
 
-
-L'indice sarà generato in maniera automatica tramite tool.
+L'indice (TOC) sarà generato in maniera automatica tramite tool.
 
 ## 🔠 Regole di accessibilità 
 
