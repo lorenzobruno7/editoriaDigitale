@@ -1,5 +1,5 @@
 # L'IA tra le Righe: L'Editoria Digitale alla Sfida dell'Intelligenza Artificiale
-## Contenuti del progetto
+## 🗃 Indice dei contenuti
 * [Oggetto del progetto](#oggetto-del-progetto)
 * [Obiettivi](#obiettivi)
 * [Processo di produzione](#processo-di-produzione)
@@ -79,22 +79,13 @@ Per creare il showcase, utilizzerò una combinazione di presentazioni visive, vi
 
 ### Struttura effettiva del contenuto
 
+Lo showcase è organizzato nel seguente modo:
 
-La struttura del manuale sarà la seguente: 
 
-* Indice analitico 
-* Contenuto nella scatola
-* Installazione base
-* Installazione avanzata
-* Utilizzo del software dedicato
-* Reset allo stato di fabbrica
-* Shortcut di default
-* Indicazioni legali
-* Copyright
 
-L'indice sarà generato in maniera automatica tramite un tool.
+L'indice sarà generato in maniera automatica tramite tool.
 
-## Regole di accessibilità
+## 🔠 Regole di accessibilità 
 
 ### WAI-ARIA: Web Accessibility Initiative - Accessible Rich Internet Applications
 
@@ -119,7 +110,7 @@ I ruoli utilizzati all'interno del documento sono i seguenti
 
 ## Tecnologie
 
-### Tecnologie per l'automatismo
+### Tecnologie per l'automatismo 
 
 ### Pandoc: conversione dei documenti
 
