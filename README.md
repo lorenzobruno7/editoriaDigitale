@@ -30,26 +30,21 @@ Per creare il showcase, è stata utilizzata una combinazione di presentazioni au
 Negli ultimi anni, l'utilizzo delle nuove tecnologie basate sull'intelligenza artificiale (IA) ha registrato un incremento esponenziale in vari settori. Questo rapido sviluppo è stato alimentato  da diversi fattori, tra cui l'aumento della disponibilità di dati, i  progressi nella capacità di calcolo e l'avanzamento degli algoritmi  di apprendimento automatico. Anche nel campo dell'editoria digitale, l'utilizzo dell'IA ha registrato una crescita significativa. Le intelligenze artificiali vengono 
 utilizzate per automatizzare compiti editoriali come la scrittura assistita e la personalizzazione dei contenuti per gli utenti. Inoltre, l'IA è impiegata nella gestione dei flussi di lavoro editoriali, ottimizzando la produzione e la distribuzione dei contenuti digitali.
 
-* Obiettivi comunicativi:
+* Obiettivi comunicativi: Mostrare le potenzialità e i limiti di un impiego delle nuove tecnologi basate du IA, discutendo infine i nuovi rapporti opera/autore, il diritto d'autore e le potenzialità/rischi derivati dal loro impiego in ambito editoriale.
 
-
-* Definizione dei formati:
-
-Il formato finale del progetto è quello dell'ePub, standard aperto specifico per la pubblicazione di libri digitali (eBook)
+* Definizione dei formati: Il formato finale del progetto è quello dell'ePub, standard aperto specifico per la pubblicazione di libri digitali (eBook)
 
 ### Stesura della bozza
 
 * Punti da trattare
-
-* Sviluppo dei contenuti:
-
+* Sviluppo dei contenuti
 * Stesura requisiti di accessibilità
 
 
 ### Revisione dei contenuti
 
 * Rilettura dei contenuti e perfezionamento
-* Differenziazione degli elementi destinati alle diverse tecnologie
+* Differenziazione degli elementi
 * Inclusione nuovi contenuti
 * Revisione requisiti di accessibilità
 
@@ -66,7 +61,6 @@ Il formato finale del progetto è quello dell'ePub, standard aperto specifico pe
 * Dichiarazione delle licenze
 
 ### Gestione documentale
-
 
 ### Struttura effettiva del contenuto
 
@@ -97,7 +91,8 @@ Il modulo Digital Publishing WAI-ARIA (DPUB-ARIA) è un'estensione della specifi
 
 I ruoli utilizzati all'interno del documento sono i seguenti
 
-##### Roles
+##### Roles utilizzati
+
 
 * **doc-chapter**:landmark role utilizzato all'interno di una section per definire una sezione tematica importante del contenuto di un'opera.
 * **doc-introduction**: landmark role utilizzato per indicare una sezione preliminare che di solito introduce l'ambito o la natura del lavoro.
