@@ -97,9 +97,11 @@ Il modulo Digital Publishing WAI-ARIA (DPUB-ARIA) è un'estensione della specifi
 
 I ruoli utilizzati all'interno del documento sono i seguenti
 
-##### doc-chapter
+##### Roles
 
-**doc-chapter** è un landmark role tipicamente utilizzato all'interno di una section per definire una sezione tematica importante del contenuto di un'opera.
+* **doc-chapter**:landmark role utilizzato all'interno di una section per definire una sezione tematica importante del contenuto di un'opera.
+* **doc-introduction**: landmark role utilizzato per indicare una sezione preliminare che di solito introduce l'ambito o la natura del lavoro.
+* **doc-conclusion**: landmark role utilizzato per indicare una sezione o una dichiarazione conclusiva che riassume il lavoro o conclude la narrazione.
 
 [^2]: http://kb.daisy.org/publishing/docs/html/dpub-aria/index.html
 [^3]: https://www.w3.org/WAI/standards-guidelines/aria/
