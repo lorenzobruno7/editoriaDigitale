@@ -107,9 +107,16 @@ I ruoli utilizzati all'interno del documento sono i seguenti
 
 ## Tecnologie
 
+#### ChatGPT
+
+ChatGPT è un modello di intelligenza artificiale sviluppato da OpenAI. È stato addestrato su una vasta quantità di testi provenienti da internet, consentendogli di generare testo coerente e rilevante in risposta a input in linguaggio naturale. ChatGPT è in grado di eseguire diverse attività linguistiche come rispondere a domande, fornire informazioni, generare testo creativo, dare consigli, svolgere compiti di traduzione e molto altro. Può essere utilizzato per una vasta gamma di scopi, tra cui assistenza virtuale, tutoraggio online, creazione di contenuti e supporto nella ricerca di informazioni.
+
+#### DALL-E 2
+DALL-E è un modello di intelligenza artificiale sviluppato da OpenAI. È un'evoluzione di GPT-3, progettato specificamente per la generazione di immagini. DALL-E può generare immagini originali e creative basate su input testuali. Tuttavia, è importante sottolineare che DALL-E è un modello generativo e non possiede una comprensione semantica completa delle immagini. Pertanto, potrebbe produrre immagini che sembrano corrispondere alla descrizione fornita, ma che contengono dettagli o interpretazioni errate. DALL-E non ha la capacità di comprendere il contesto o il significato delle immagini al di là delle associazioni apprese durante l'addestramento. Inoltre, DALL-E richiede specifiche dettagliate per generare un'immagine e può essere sensibile alla formulazione delle descrizioni. Piccole variazioni nelle istruzioni possono portare a risultati completamente diversi. Quindi, è importante essere precisi nella descrizione dell'immagine desiderata.
+
 ### Tecnologie per l'automatismo 
 
-### Pandoc: conversione dei documenti
+#### Pandoc: conversione dei documenti
 
 > If you need to convert files from one markup format into another, pandoc is your swiss-army knife. [^4]
 
@@ -117,7 +124,7 @@ Pandoc è un software gratuito progettato per la **conversione di documenti** di
 
 [^4]: https://pandoc.org/
 
-### GitHub: gestione del versioning
+#### GitHub: gestione del versioning
 
 Git è un sistema di **controllo di versione distribuito, gratuito e open source**, progettato per gestire con velocità ed efficienza progetti di ogni tipo, dai più piccoli ai più grandi. [^5]
 GitHub è un **servizio di hosting** su Internet per lo sviluppo di software e il controllo delle versioni tramite Git. Fornisce il controllo di versione distribuito di Git più il controllo degli accessi, il bug tracking, le richieste di funzionalità software, la gestione delle attività, l'integrazione continua e i wiki per ogni progetto. [^6]
@@ -128,7 +135,7 @@ GitHub è un **servizio di hosting** su Internet per lo sviluppo di software e i
 
 ## Conclusioni
 
-### Sviluppi futuri
+### 🔜 Sviluppi futuri
 
 L'elaborato rappresenta, al momento della sua pubblicazione, una fotografia delle tecnologie gratutite attualmente presenti sul mercato ed accessibili a chiunque. Progressivamente con l'evoluzione di queste tecnologie, il prodotto finale potrà mutare ed evolvere insieme ad esse.
 
