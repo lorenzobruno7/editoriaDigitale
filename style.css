@@ -1,0 +1,296 @@
+aside, figure, figcaption, section {
+  font-size: 100%;
+  line-height: inherit;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+/* We try to avoid blank pages when last-child has vertical margins
+and is displayed at the bottom of the screen (e.g. list, figure, etc.) */
+body > section > :last-child {
+  margin-bottom: 0;
+}
+
+/* Styles */
+@page {
+  margin: 30px 30px 20px 30px; /* Cos Nook */
+  padding: 0;
+}
+
+title {
+    font-family: "Minion Pro", "Iowan Old Style", Palatino, "Palatino Linotype", "Palatino Nova", "BN Amasis", Cambria, FreeSerif, "Times New Roman", serif;
+    font-size: 100%;   
+}
+
+body {
+  font-family: "Minion Pro", "Iowan Old Style", Palatino, "Palatino Linotype", "Palatino Nova", "BN Amasis", Cambria, FreeSerif, "Times New Roman", serif;
+  font-size: 100%;
+  line-height: 1.5;
+  widows: 2;
+  orphans: 2;
+  -webkit-hyphenate-limit-lines: 2;
+  -ms-hyphenate-limit-lines: 2;
+  -moz-hyphenate-limit-lines: 2;
+}
+
+h1, h2, h3, h4, h5, h6,
+figure, figcaption {
+  -ms-hyphens: none;
+  -moz-hyphens: none;
+  -webkit-hyphens: none;
+  -epub-hyphens: none;
+  hyphens: none;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  page-break-after: avoid;
+  break-after: avoid;
+  text-indent: 0;
+  font-weight: normal;
+  text-align: left;
+}
+
+h1 {
+  font-size: 1.8em;
+  line-height: 1.04347826;
+  margin-top: 0;
+  margin-bottom: 3.13043478em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.3125em;
+  line-height: 1.14285714;
+  margin-top: 2.28571429em;
+  margin-bottom: 1.14285714em;
+}
+
+h3 {
+  font-size: 1.125em;
+  line-height: 1.33333333;
+  margin-top: 1.33333333em;
+  margin-bottom: 0;
+  font-style: italic;
+}
+
+h4 {
+  font-size: 1em;
+  line-height: inherit;
+  margin-top: 1.5em;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1em;
+  line-height: inherit;
+  margin: 0;
+  padding: 0;
+  text-indent: 1em;
+}
+
+.chapter-title+p, .section-title+p, h3+p, h4+p,
+blockquote>p, blockquote+p, 
+ul+p, ol+p, 
+pre+p, 
+hr+p,
+figure+p, video+p,
+li > p {
+  text-indent: 0;
+}
+
+blockquote { 
+  font-size: 1em;
+  line-height: inherit;
+  margin: 1.5em 5%;
+  font-style: italic;
+}
+
+blockquote i,
+blockquote em,
+blockquote cite {
+  font-style: normal;
+}
+
+ul, ol {
+  margin: 1.5em 0;
+  padding-left: 5%;
+}
+
+ul ol, ul ul,
+ol ol, ol ul {
+  margin: 0;
+}
+
+li {
+  font-size: 1em;
+  line-height: inherit;
+}
+
+pre {
+  margin: 1.5em 0 1.5em 5%;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  -ms-tab-size: 2;
+  -moz-tab-size: 2;
+  -webkit-tab-size: 2;
+  tab-size: 2;
+}
+
+hr {
+  width: 25%;
+  margin: 1.4375em 37.5%;
+  height: 0;
+  border: none;
+  border-top: 0.125em solid currentColor;
+  opacity: 0.5;
+}
+
+em {
+  font-style: italic;
+}
+
+em em {
+  font-style: normal;
+}
+
+strong {
+  font-weight: bold;
+}
+
+sup {
+  font-size: 75%;
+  line-height: 1.2;
+  vertical-align: super;
+  vertical-align: 33%;
+}
+
+code {
+  font-family: monospace;
+}
+
+a {
+  text-decoration: underline;
+  font-weight: bold;
+  font-variant: small-caps;
+  color: inherit;
+  -webkit-text-fill-color: inherit;
+}
+
+sup a.footnote {
+  text-decoration: none;
+}
+
+video {
+  margin: 1.5em auto;
+  max-width: 100%;
+  height: auto;
+}
+
+figure { 
+  margin: 1.5em auto;
+  text-align: center;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 0.9375em;
+  line-height: 1.6;
+  font-style: italic;
+}
+
+figure img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+aside {
+  font-size: 0.875em;
+  line-height: 1.7142857143;
+  margin: 3.4285714286em 0 0 5%;
+}
+
+/* In case there is more than one footnote */
+aside + aside {
+  margin-top: 0.857142857em;
+}
+
+div.cover {
+  margin: 0;
+  padding: 0;
+  height: 99%;
+  text-align: center;
+}
+
+@media amzn-kf8 {
+  h1, h2 {
+    line-height: 1.2; /* Minimum value Kindle takes into account */
+  }
+  video {
+    display: none;
+  }
+}
+
+@media amzn-mobi {
+  h1 {
+    font-size: xx-large;
+    margin: 0 0 3em 0;
+  }
+
+  h2 {
+    font-size: x-large;
+    margin: 2em 0 1em 0;
+  }
+
+  h3 {
+    font-size: large;
+    margin: 1em 0;
+  }
+
+  h4 {
+    font-size: medium;
+    margin: 1em 0 0 0;
+  }
+
+  sup {
+    font-size: x-small;
+  }
+
+  hr {
+    margin: 1em 0;
+  }
+
+  figcaption {
+    font-size: medium;
+  }
+
+  ul {
+    margin: 1em 0;
+  }
+
+  ol {
+    margin: 1em 0;
+  }
+
+  blockquote {
+    margin: 1em 0;
+  }
+
+  pre {
+    margin: 1em 0;
+  }
+  
+  figure {
+    margin: 1em 0;
+  }
+  
+  video {
+    display: none;
+  }
+  
+  aside {
+    font-size: medium;
+    margin-top: 2em;
+  }
+}
