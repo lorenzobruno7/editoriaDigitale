@@ -1,2 +1,1 @@
-In questa cartella sono contenuti vari file .css adatti all'utilizzo di HTML per ePub
-La versione finale utilizzata per la pubblicazione è quella rinominata "style.css"
+In questa cartella sono contenuti vari file .css adatti all'utilizzo di HTML per ePub. La versione finale utilizzata per la pubblicazione è quella che si trova nella root directory ed è rinominata "style.css"
