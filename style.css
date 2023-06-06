@@ -100,10 +100,15 @@ li > p {
 }
 
 blockquote { 
-  font-size: 1em;
-  line-height: inherit;
-  margin: 1.5em 5%;
-  font-style: italic;
+  margin:50px auto;
+  font-style:italic;
+  font-size: 1.3em;
+  color: #555555;
+  padding:0.5em 120px 0.5em 15px;
+  border-left:8px solid #78C0A8 ;
+  line-height:1.6;
+  position: relative;
+  background:#EDEDED;
 }
 
 blockquote i,
