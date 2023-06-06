@@ -11,6 +11,7 @@ Repository non allineata con il progetto e quindi ancora **IN FASE DI AGGIORNAME
      * [Definizione dello stile grafico](#definizione-dello-stile-grafico)
 * [Tecnologie](#tecnologie)
     * [Tecnologie per l'automatismo](#tecnologie-per-lautomatismo)
+* [Conclusioni](#conclusioni)
 
 ## Oggetto del progetto
 
