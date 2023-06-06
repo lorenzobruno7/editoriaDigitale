@@ -60,8 +60,6 @@ utilizzate per automatizzare compiti editoriali come la scrittura assistita e la
 * Definizione dei metadati descrittivi
 * Dichiarazione delle licenze
 
-### Gestione documentale
-
 ### Struttura effettiva del contenuto
 
 Lo showcase è organizzato nel seguente modo:
