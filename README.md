@@ -89,12 +89,11 @@ I ruoli ARIA possono essere usati per descrivere elementi che non esistono nativ
 ####  DPUB-ARIA
 Il modulo Digital Publishing WAI-ARIA (DPUB-ARIA) è un'estensione della specifica ARIA. Fornisce un insieme aggiuntivo di ruoli specifici per l'editoria da utilizzare con l'attributo role di ARIA. I ruoli editoriali hanno lo scopo di migliorare l'usabilità delle pubblicazioni, sia fornendo alle tecnologie assistive (AT - assistive technologies) informazioni aggiuntive su strutture importanti, sia garantendo l'accessibilità dei comuni idiomi di markup editoriale. I ruoli non sono intesi come un meccanismo per la semantica del flusso di lavoro e quindi non forniscono la stessa ampiezza di copertura, ad esempio, del vocabolario EPUB Structural Semantics. È necessario prestare attenzione sia al numero di ruoli utilizzati sia al modo in cui vengono utilizzati, poiché un uso scorretto può compromettere la capacità degli utenti di consumare in modo accessibile una pubblicazione. di consumare una pubblicazione in modo accessibile.[^2]
 
-I ruoli utilizzati all'interno del documento sono i seguenti
-
 ##### Roles utilizzati
 
+I ruoli utilizzati all'interno del documento sono i seguenti
 
-* **doc-chapter**:landmark role utilizzato all'interno di una section per definire una sezione tematica importante del contenuto di un'opera.
+* **doc-chapter**: landmark role utilizzato all'interno di una section per definire una sezione tematica importante del contenuto di un'opera.
 * **doc-introduction**: landmark role utilizzato per indicare una sezione preliminare che di solito introduce l'ambito o la natura del lavoro.
 * **doc-conclusion**: landmark role utilizzato per indicare una sezione o una dichiarazione conclusiva che riassume il lavoro o conclude la narrazione.
 
@@ -109,7 +108,12 @@ I ruoli utilizzati all'interno del documento sono i seguenti
 ChatGPT è un modello di intelligenza artificiale sviluppato da OpenAI. È stato addestrato su una vasta quantità di testi provenienti da internet, consentendogli di generare testo coerente e rilevante in risposta a input in linguaggio naturale. ChatGPT è in grado di eseguire diverse attività linguistiche come rispondere a domande, fornire informazioni, generare testo creativo, dare consigli, svolgere compiti di traduzione e molto altro. Può essere utilizzato per una vasta gamma di scopi, tra cui assistenza virtuale, tutoraggio online, creazione di contenuti e supporto nella ricerca di informazioni.
 
 #### DALL-E 2
-DALL-E è un modello di intelligenza artificiale sviluppato da OpenAI. È un'evoluzione di GPT-3, progettato specificamente per la generazione di immagini. DALL-E può generare immagini originali e creative basate su input testuali. Tuttavia, è importante sottolineare che DALL-E è un modello generativo e non possiede una comprensione semantica completa delle immagini. Pertanto, potrebbe produrre immagini che sembrano corrispondere alla descrizione fornita, ma che contengono dettagli o interpretazioni errate. DALL-E non ha la capacità di comprendere il contesto o il significato delle immagini al di là delle associazioni apprese durante l'addestramento. Inoltre, DALL-E richiede specifiche dettagliate per generare un'immagine e può essere sensibile alla formulazione delle descrizioni. Piccole variazioni nelle istruzioni possono portare a risultati completamente diversi. Quindi, è importante essere precisi nella descrizione dell'immagine desiderata.
+DALL-E è un modello di intelligenza artificiale sviluppato da OpenAI. Può generare immagini originali e creative basate su input testuali. Tuttavia, è importante sottolineare che DALL-E è un modello generativo e non possiede una comprensione semantica completa delle immagini. Pertanto, potrebbe produrre immagini che sembrano corrispondere alla descrizione fornita, ma che contengono dettagli o interpretazioni errate. DALL-E non ha la capacità di comprendere il contesto o il significato delle immagini al di là delle associazioni apprese durante l'addestramento. Inoltre, DALL-E richiede specifiche dettagliate per generare un'immagine e può essere sensibile alla formulazione delle descrizioni. Piccole variazioni nelle istruzioni possono portare a risultati completamente diversi. Quindi, è importante essere precisi nella descrizione dell'immagine desiderata.
+
+#### Fliki.ai
+> Fliki è una soluzione text-to-speech e text-to-video che consente di creare contenuti audio e video utilizzando voci simili a quelle umane in meno di un minuto
+
+Fliki è un software gratuito che permette la creazione di contenuti audio e video a partire da semplice testo. È basato sui i migliori motori di sintesi vocale basati sull'intelligenza artificiale sviluppati da leader del settore come Google, Microsoft e Amazon per fornire voci curate tra cui scegliere. I diritti di pubblicazione sono di proprietà dell'utente del contenuto. Le immagini/clip utilizzate sono esenti da diritti d'autore e la musica è priva di copyright, conferendo all'utente i diritti commerciali di qualsiasi piano a pagamento.
 
 ### Tecnologie per l'automatismo 
 
@@ -131,6 +135,8 @@ GitHub è un **servizio di hosting** su Internet per lo sviluppo di software e i
 
 
 ## Conclusioni
+
+
 
 ### 🔜 Sviluppi futuri
 
