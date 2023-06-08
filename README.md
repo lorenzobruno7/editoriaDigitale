@@ -77,6 +77,13 @@ L'indice (TOC) sarà generato in maniera automatica tramite tool.
 
 ## 🔠 Regole di accessibilità 
 
+L'attributo epub:type facilita solamente i comportamenti dell'interprete, come le note a comparsa. AL momento della sua introduzione, si sperava che potesse colmare l'esigenza di semantica del flusso di lavoro dell'editore con l'accessibilità, ma non ci si è riusciti. Da solo non migliora l'accessibilità delle pubblicazioni.
+
+L'attributo può ancora essere utile per i flussi di lavoro interni come mezzo per generare ruoli ARIA, ma in questi casi è necessario seguire attentamente i requisiti della specifica ARIA. L'uso dei ruoli è molto più restrittivo di epub:type.
+
+È anche possibile utilizzare sia l'attributo epub:type che role quando si sovrappongono i comportamenti dell'accessibilità e dell'interprete avanzato.[^1]
+
+
 ### WAI-ARIA: Web Accessibility Initiative - Accessible Rich Internet Applications
 
 WAI-ARIA definisce un modo per rendere i contenuti e le applicazioni Web più **accessibili alle persone con disabilità**. È particolarmente utile per i contenuti dinamici e i controlli avanzati dell'interfaccia utente sviluppati con HTML, JavaScript e tecnologie correlate. Senza WAI-ARIA alcune funzionalità utilizzate nei siti Web non sono disponibili per alcuni utenti con disabilità, in particolare per coloro che si affidano a lettori di schermo e per coloro che non possono utilizzare il mouse.[^3]
@@ -96,6 +103,7 @@ I ruoli utilizzati all'interno del documento sono i seguenti
 * **doc-introduction**: landmark role utilizzato per indicare una sezione preliminare che di solito introduce l'ambito o la natura del lavoro.
 * **doc-conclusion**: landmark role utilizzato per indicare una sezione o una dichiarazione conclusiva che riassume il lavoro o conclude la narrazione.
 
+[^1]: http://kb.daisy.org/publishing/docs/html/epub-type.html
 [^2]: http://kb.daisy.org/publishing/docs/html/dpub-aria/index.html
 [^3]: https://www.w3.org/WAI/standards-guidelines/aria/
 
