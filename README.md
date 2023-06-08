@@ -9,6 +9,8 @@ Repository non allineata con il progetto e quindi ancora **IN FASE DI AGGIORNAME
      * [Studio e analisi del tema](#studio-e-analisi-del-tema)
      * [Stesura della bozza](#stesura-della-bozza)
      * [Definizione dello stile grafico](#definizione-dello-stile-grafico)
+
+* [Accessibilità](#-regole-di-accessibilità)
 * [Tecnologie](#tecnologie)
     * [Tecnologie per l'automatismo](#tecnologie-per-lautomatismo)
 * [Conclusioni](#conclusioni)
