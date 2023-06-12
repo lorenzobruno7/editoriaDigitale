@@ -24,6 +24,7 @@ L'obiettivo è quello di illustrare in modo chiaro e coinvolgente come l'intelli
 
 ![workflow](workflow.png)
 
+
 Per creare il showcase, è stata utilizzata una combinazione di presentazioni testuali e audiovisive. La presentazione sarà strutturata in modo da fornire una panoramica chiara e concisa dei principali ambiti in cui l'intelligenza artificiale viene impiegata nell'editoria digitale, come la scrittura assistita, la creazione e personalizzazione di contenuti multimediali come audio, immagini o video.
 
 ### Studio e analisi del tema
