@@ -9,7 +9,6 @@ Repository non allineata con il progetto e quindi ancora **IN FASE DI AGGIORNAME
      * [Studio e analisi del tema](#studio-e-analisi-del-tema)
      * [Stesura della bozza](#stesura-della-bozza)
      * [Definizione dello stile grafico](#definizione-dello-stile-grafico)
-
 * [Accessibilità](#-regole-di-accessibilità)
 * [Tecnologie](#tecnologie)
     * [Tecnologie per l'automatismo](#tecnologie-per-lautomatismo)
@@ -24,6 +23,9 @@ Questo progetto rappresenta uno **showcase** sull'applicazione delle tecnologie 
 L'obiettivo è quello di illustrare in modo chiaro e coinvolgente come l'intelligenza artificiale sta trasformando l'editoria digitale, offrendo nuove opportunità di innovazione e migliorando l'esperienza di lettura per gli utenti. L'elaborato vuole mettere in luce le potenzialità delle intelligenze artificiali e stimolare la riflessione su come queste tecnologie possano essere integrate in modo responsabile e sostenibile nel settore dell'editoria digitale, ponendo anche un occhio di riguardo sui limiti attuali delle tecnologie presenti.
 
 ## Processo di produzione
+
+![alt text](workflow.png)
+
 
 Per creare il showcase, è stata utilizzata una combinazione di presentazioni audiovisive. La presentazione sarà strutturata in modo da fornire una panoramica chiara e concisa dei principali ambiti in cui l'intelligenza artificiale viene impiegata nell'editoria digitale, come la scrittura assistita, la creazione e personalizzazione di contenuti multimediali come audio, immagini o video.
 
