@@ -1,7 +1,5 @@
 # L'IA tra le Righe: L'Editoria Digitale alla Sfida dell'Intelligenza Artificiale
 
-Repository non allineata con il progetto e quindi ancora **IN FASE DI AGGIORNAMENTO**
-
 ## 🗃 Indice dei contenuti
 * [Oggetto del progetto](#oggetto-del-progetto)
 * [Obiettivi](#-obiettivi)
